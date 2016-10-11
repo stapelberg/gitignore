@@ -1,6 +1,8 @@
 # http://www.gnu.org/software/automake
 
 Makefile.in
+/ar-lib
+/test-driver
 
 # http://www.gnu.org/software/autoconf
 
@@ -10,6 +12,8 @@ Makefile.in
 /aclocal.m4
 /compile
 /config.h.in
+/config.guess
+/config.sub
 /configure
 /configure.scan
 /depcomp
